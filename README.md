@@ -1,4 +1,4 @@
-# 📕 프로젝트(Project)
+# 📕 Square Clock
 
 > 프로젝트를 간단하게 소개합니다.
 
@@ -18,10 +18,10 @@
 
 ### 🧰 시스템 환경(System Environment)
 
-||운영체제(OS)|언어(Language)|프레임워크(Framework)|종속성(Dependency)|
+||운영체제(OS)|언어(Language)|프레임워크(Framework)|라이브러리(Library)
 |-|:-:|:-:|:-:|:-:|
-|명칭(Name)|`Something OS`|`Something Language`|`Something Framework`|`Something Dependency`|
-|버전(Version)|`Any Version`|`Any Version`|`Any Version`|`Any Link`|
+|명칭(Name)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)|![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TypeScript&logoColor=white)|![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black)|![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white)|
+|버전(Version)|`11`|`4.8.4`|`18.2.0`|`4.2.0`|
 
 ### 🌐 브라우저 지원(Browser Support)
 
